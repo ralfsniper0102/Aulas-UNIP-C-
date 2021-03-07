@@ -14,7 +14,7 @@ namespace ConsoleApp1
             switch (numero)
             {
                 case 1:
-                    Console.WriteLine("você digitou um");
+                    Console.WriteLine("Você digitou um");
                     break;
                 case 2:
                     Console.WriteLine("Você digitou dois");
@@ -23,7 +23,7 @@ namespace ConsoleApp1
                     Console.WriteLine("Você digitou três");
                     break;
                 case 4:
-                    Console.WriteLine("Vpcê digitou quatro");
+                    Console.WriteLine("Você digitou quatro");
                     break;
                 default:
                     Console.WriteLine("Você não digitou a opção correta");
