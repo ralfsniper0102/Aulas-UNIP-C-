@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Interação {0}", i);
+                Console.WriteLine("Iteração {0}", i);
             }
             Console.ReadKey();
         }
