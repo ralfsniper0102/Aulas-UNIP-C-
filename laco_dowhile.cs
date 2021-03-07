@@ -9,7 +9,7 @@ namespace ConsoleApp1
             int i = 0;
             do
             {
-                Console.WriteLine("Interação {0}", i);
+                Console.WriteLine("Iteração {0}", i);
                 i++;
             } while (i < 5);
             Console.ReadKey();
